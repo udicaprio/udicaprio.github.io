@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ulderico Di Caprio - AI in ChemE"
 title_separator          : "-"
 name                     : &name "Ulderico Di Caprio"
-description              : &description "AI in ChemE"
+description              : 
 url                      : https://udicaprio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "udicaprio/udicaprio.github.io"

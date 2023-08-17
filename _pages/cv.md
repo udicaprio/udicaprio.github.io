@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **PhD in chemical engineering technology, 2023 (expected)**<br>
+&ensp;&ensp;KU Leuven, Belgium<br>
+&ensp;&ensp;Thesis title: Application of AI for complex separation systems
+* **Masters' degree in chemical engineering, 2017**<br>
+&ensp;&ensp;University of Naples "Federico II", Italy<br>
+&ensp;&ensp;Thesis title: CO/H<sub>2</sub> production by thermochemical splitting over novel transition oxides catalysts
+* **Bachelors' degree in chemical engineering, 2015**<br>
+&ensp;&ensp;University of Naples "Federico II", Italy<br>
+&ensp;&ensp;Thesis title: Microfluidic for chemical reactions
 
-Work experience
+
+⚙️ Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
