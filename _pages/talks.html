@@ -1,16 +1,34 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Given and contributed presentations"
 permalink: /talks/
 author_profile: true
 ---
 
 {% if site.talkmap_link == true %}
-
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
 {% endif %}
 
+
+
+<h2><i>Given scintific presentations</i></h2>
+
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.effort == "given" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2><i>Contribution to scientific presentations</i></h2>
+{% for post in site.talks reversed %}
+  {% if post.effort == "contribution" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2><i>Other presentations</i></h2>
+{% for post in site.talks reversed %}
+  {% if post.effort == "other" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HomePage"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an Italian chemical engineer based in Belgium. 
+Welcome to my website! I am an Italian Chemical Engineer based in Belgium. <br>
 
+I am a postdoctoral researcher at KU Leuven, at the [Centre for Industrial Process Technology](https://iiw.kuleuven.be/onderzoek/cipt), on Campus Diepenbeek. My research focuses on the application of hybrid modelling for separation technologies based on their nature. Hybrid modelling is a technique merging mechanistic information and data-driven modelling. More specifically, my research focuses on the application of these techniques to predict the behaviour of dynamic chemical systems and thermodynamic properties of mixtures.
+
+I earned my PhD in Chemical Engineering from [KU Leuven](https://www.kuleuven.be/kuleuven) in the [Centre for Industrial Process Technology](https://iiw.kuleuven.be/onderzoek/cipt), and my Master's and Bachelor's degrees in Chemical Engineering from the [University of Naples "Federico II"](https://www.international.unina.it/).
+
+<!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -49,4 +54,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

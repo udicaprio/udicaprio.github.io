@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ulderico Di Caprio - AI in ChemE"
+title                    : "Ulderico Di Caprio"
 title_separator          : "-"
 name                     : &name "Ulderico Di Caprio"
 description              : &description "AI in ChemE"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ulderico Di Caprio"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate in AI application for chemical engineering"
-  location         : "Brussels - Belgium"
+  bio              : "Postdoctoral researcher in AI application for chemical engineering"
+  location         : 
   employer         : "KULeuven - CIPT"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=kIaVCF0AAAAJ"
