@@ -13,4 +13,4 @@ Anthropogenic CO<sub>2</sub> emissions reinforce global warming. The most mature
 
 [Download paper here](https://doi.org/10.1016/B978-0-323-95879-0.50236-8)
 
-Recommended citation: Di Caprio, U., Kayahan, E., Wu, M., Mercelis, S., Hellinckx, P., Van Gerven, T., Waldherr, S., Leblebici, M.E. (2022). Optimization of an artificial neural network structure for modelling carbon capture in spray columns. <>iComputer Aided Chemical Engineering</i>, 51, 1411-1416
+Recommended citation: Di Caprio, U., Kayahan, E., Wu, M., Mercelis, S., Hellinckx, P., Van Gerven, T., Waldherr, S., Leblebici, M.E. (2022). Optimization of an artificial neural network structure for modelling carbon capture in spray columns. <i>Computer Aided Chemical Engineering</i>, 51, 1411-1416
