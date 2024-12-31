@@ -26,7 +26,7 @@ redirect_from:
 ======
 * **Nov 2023 - Present: Postdoctoral Researcher**
   * KU Leuven -  Centre for Industrial Process Technology
-  * Applicaiton of hybrid modelling techniques to process system engineering and thermodynamics.
+  * Application of hybrid modelling techniques to process system engineering and thermodynamics.
 
 * **Dec 2019 - Oct 2023: PhD Researcher**
   * KU Leuven -  Centre for Industrial Process Technology
