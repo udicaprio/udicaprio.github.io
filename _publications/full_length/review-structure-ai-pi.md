@@ -13,4 +13,4 @@ Process intensification achieved through novel structural designs plays a crucia
 
 [Download paper here](https://doi.org/10.1016/j.cep.2025.110406)
 
-Recommended citation: Onur C.B., Nogueira I.B.R. Di Caprio U., Leblebici M.E. (2025). AI-aided process intensification of structures. <i>Chemical Engineering and Processing - Process Intensification</i>, 216, 110406. 
+Recommended citation: Onur C.B., Nogueira I.B.R., Di Caprio U., Leblebici M.E. (2025). AI-aided process intensification of structures. <i>Chemical Engineering and Processing - Process Intensification</i>, 216, 110406. 
