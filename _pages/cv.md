@@ -24,7 +24,15 @@ redirect_from:
 
 ⚙️ Work experience
 ======
-* **Nov 2023 - Present: Postdoctoral Researcher**
+* **Oct 2025 - Present: FWO Postdoctoral fellow**
+  * KU Leuven -  Chemical and Biochemical Reactor Engineering and Safety group
+  * Design and application of physics-informed generative AI techniques for in-silico green mixture design.
+
+* **Mar 2025 - June 2025: Visiting researcher**
+  * University of Manchester -  Chemical Engineering Department
+  * Application of bayesian optimisation techniques for automatic hybrid model generation in data-scarce scenarios.
+
+* **Nov 2023 - Sept 2025: Postdoctoral Researcher**
   * KU Leuven -  Centre for Industrial Process Technology
   * Application of hybrid modelling techniques to process system engineering and thermodynamics.
 

@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Researcher in AI application for chemical engineering"
   location         : 
-  employer         : "KULeuven - CIPT"
+  employer         : "FWO | KU Leuven - CREaS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=kIaVCF0AAAAJ"
   email            :
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true

@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website! I am an Italian Chemical Engineer based in Belgium. <br>
 
-I am a postdoctoral researcher at KU Leuven, at the [Centre for Industrial Process Technology](https://iiw.kuleuven.be/onderzoek/cipt), on Campus Diepenbeek. My research focuses on the application of hybrid modelling for separation technologies based on their nature. Hybrid modelling is a technique merging mechanistic information and data-driven modelling. More specifically, my research focuses on the application of these techniques to predict the behaviour of dynamic chemical systems and thermodynamic properties of mixtures.
+I am a FWO postdoctoral researcher at KU Leuven, at the [Chemical and Biochemical Reactor Engineering and Safety group](https://cit.kuleuven.be/creas). My research focuses on the physics informed ML for mixture property prediction and generation, enforcing thermodynamic information on the mixture behaviour to improve model accuracy. The final aim is to ehnance in-silico solvent mixture design to improve the environmental footprint of fine-chemical and pharmaceutical processes and design mode sustainable fuels.
 
 I earned my PhD in Chemical Engineering from [KU Leuven](https://www.kuleuven.be/kuleuven) in the [Centre for Industrial Process Technology](https://iiw.kuleuven.be/onderzoek/cipt), and my Master's and Bachelor's degrees in Chemical Engineering from the [University of Naples "Federico II"](https://www.international.unina.it/).
 
