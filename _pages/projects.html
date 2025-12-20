@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Research projects"
+permalink: /projects/
+author_profile: true
+---
+
+<h2><i>Awarded projects</i></h2>
+{% assign sorted = site.projects | sort: "year" %}
+{% for post in sorted reversed %}
+  {% include archive-single-project.html %}
+{% endfor %}
