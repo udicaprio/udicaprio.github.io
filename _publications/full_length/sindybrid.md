@@ -14,6 +14,6 @@ Hybrid modelling enhances the accuracy and predictive capability of dynamic mode
 
 [Download pre-print here](https://arxiv.org/abs/2506.12498)
 
-[Download paper here](https://doi.org/10.1016/j.cep.2023.109285)
+[Download paper here](https://doi.org/10.1016/j.ces.2025.122873)
 
 Recommmended citation: Di Caprio U., Leblebici M.E. (2026). SINDybrid: automatic generation of hybrid models for dynamic systems. <i>Chemical Engineering Science</i>, 321 (Part C), 122873
