@@ -24,7 +24,11 @@ redirect_from:
 
 ⚙️ Work experience
 ======
-* **Oct 2025 - Present: FWO Postdoctoral fellow**
+* **Jan 2026 - Present: MSCA Postdoctoral fellow**
+  * TU Delft - Process Intelligence Research Group
+  * Automatic process flow diagrams generation through context-aware reinforcement learning techniques.
+
+* **Oct 2025 - Dec 2025: FWO Postdoctoral fellow**
   * KU Leuven -  Chemical and Biochemical Reactor Engineering and Safety group
   * Design and application of physics-informed generative AI techniques for in-silico green mixture design.
 
