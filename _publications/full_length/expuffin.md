@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/expuffin
 pubtype: "journal"
 excerpt: 'In this paper we create and validate an hybrid model involving GNN for predicting viscosity using physical equations.'
-date: 2025-03-18
+date: 2026-03-18
 venue: 'Chemical Engineering Journal Advances'
 paperurl: 'https://doi.org/10.1016/j.ceja.2026.101129'
 citation: 
