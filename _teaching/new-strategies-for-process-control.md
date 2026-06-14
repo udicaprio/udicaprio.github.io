@@ -4,7 +4,7 @@ collection: teaching
 type: "Master's course"
 permalink: /teaching/new-strategies-for-process-control
 venue: "KU Leuven, Faculty of Engineering Technology"
-role: "Teaching assistant"
+role: "Designer, Lecturer and Teaching assistant"
 date: 2023-09-30
 location: "Diepenbeek, Belgium"
 ---
