@@ -21,9 +21,12 @@ redirect_from:
 &ensp;&ensp;University of Naples "Federico II", Italy<br>
 &ensp;&ensp;Thesis title: Microfluidic for chemical reactions
 
-
 ⚙️ Work experience
 ======
+* **Aug 2026 - Present: Visiting researcher**
+  * ETH Zurich - EPSE Group, Department of Mechanical and Process Engineering
+  * Research on process design and physics-informed reinforcement learning for process synthesis.
+
 * **Jan 2026 - Present: MSCA Postdoctoral fellow**
   * TU Delft - Process Intelligence Research Group
   * Automatic process flow diagrams generation through context-aware reinforcement learning techniques.
