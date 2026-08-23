@@ -2,7 +2,7 @@
 title: "Addressing Matrix Effects Through A Physical Prior-Informed Calibration Model For Quantitative Analysis"
 collection: publications
 permalink: /publication/matrix-effects-calibration
-pubtype: "proceeding"
+category: conferences
 excerpt: 'A calibration approach that incorporates physical prior information to improve quantitative analysis in complex matrices.'
 date: 2026-06-19
 venue: 'Systems and Control Transactions'

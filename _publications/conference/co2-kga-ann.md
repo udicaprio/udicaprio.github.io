@@ -1,8 +1,8 @@
 ---
 title: "Optimization of an artificial neural network structure for modelling carbon capture in spray columns"
-collection: Journal Papers
+collection: publications
 permalink: /publication/co2-kga-ann
-pubtype: "proceeding"
+category: conferences
 excerpt: 'In this paper we apply bayesian optimization to identify the most efficient neural network structure to predict mass-transfer coefficients CO<sub>2</sub> capture spray columns'
 date: 2022-08-01
 venue: 'Computer Aided Chemical Engineering'

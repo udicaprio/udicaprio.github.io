@@ -2,7 +2,7 @@
 title: "Optimizing the Solubility of Organic Molecules in Mixed Solvents Using Bayesian Optimization and Multicomponent Directed-Message Passing Neural Networks"
 collection: publications
 permalink: /publication/solubility-bayesian-optimization
-pubtype: "proceeding"
+category: conferences
 excerpt: 'A Bayesian-optimisation approach for identifying solvent mixtures that maximise organic-molecule solubility.'
 date: 2026-06-19
 venue: 'Systems and Control Transactions'

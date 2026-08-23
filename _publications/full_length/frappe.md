@@ -2,7 +2,7 @@
 title: "FRaPPÉ: Fragrance Raw Materials Performance Prediction Explained"
 collection: publications
 permalink: /publication/frappe
-pubtype: "journal"
+category: manuscripts
 excerpt: 'An interpretable QSPR framework for predicting perfume raw-material performance in fabric softeners.'
 date: 2026-08-17
 venue: 'Industrial & Engineering Chemistry Research'

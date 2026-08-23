@@ -1,8 +1,8 @@
 ---
 title: "CO2 water-lean capture: Mathematical modelling and analysis of the industrial process"
-collection: Journal Papers
+collection: publications
 permalink: /publication/co2-waterlearn-capture
-pubtype: "proceeding"
+category: conferences
 excerpt: 'In this paper we investigate the effect of MEA concentration on the overall CO<sub>2</sub> capture process efficiency'
 date: 2023-07-18
 venue: 'Computer Aided Chemical Engineering'

@@ -2,7 +2,7 @@
 title: "Physics-informed machine learning predicting CO₂ capture performances of organic mixtures"
 collection: publications
 permalink: /publication/physics-informed-co2-solubility
-pubtype: "journal"
+category: manuscripts
 excerpt: 'In this paper we develop an hybrid model for CO₂ solubility prediction differentiating physical and chemical absorption'
 date: 2025-06-15
 venue: 'Chemical Engineering and Processing - Process Intensification'

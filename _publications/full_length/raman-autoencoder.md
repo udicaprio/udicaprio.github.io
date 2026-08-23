@@ -1,8 +1,8 @@
 ---
 title: "Simulation and quantitative analysis of Raman spectra in chemical processes with autoencoders"
-collection: Journal Papers
+collection: publications
 permalink: /publication/raman-autoencoder
-pubtype: "journal"
+category: manuscripts
 excerpt: ' In this paper we present an autoencoder-based methodology that simulates Raman spectra from process variables and predicts the concentrations of different chemicals.'
 date: 2024-03-27
 venue: 'Chemometrics and Intelligent Laboratory Systems'

@@ -1,8 +1,8 @@
 ---
 title: "Structural Optimization of Translucent Monolith Reactors through Multi-objective Bayesian Optimization"
-collection: Journal Papers
+collection: publications
 permalink: /publication/escape35_structures
-pubtype: "proceeding"
+category: conferences
 excerpt: 'In this paper we apply bayesian optimisation algorithm to analyse the effect of shapes and dimensions of monolith channels in photochemical reactor and including multiobjective optimisation to improve its design'
 date: 2025-06-27
 venue: 'Systems & Control Transactions'

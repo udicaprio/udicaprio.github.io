@@ -1,8 +1,8 @@
 ---
 title: "SINDybrid: automatic generation of hybrid models for dynamic systems"
-collection: Journal Papers
+collection: publications
 permalink: /publication/sindybrid
-pubtype: "journal"
+category: manuscripts
 excerpt: 'In this paper we propose a MILP formulation for the automatic identification and training of hybrid models starting from mechanistic information and data'
 date: 2025-11-17
 venue: 'Chemical Engineering Science'

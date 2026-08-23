@@ -9,23 +9,21 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-
-
-<h2><i>Given scientific presentations</i></h2>
+<h2>Given scientific presentations</h2>
 {% for post in site.talks reversed %}
   {% if post.effort == "given" %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
 
-<h2><i>Contribution to scientific presentations</i></h2>
+<h2>Contribution to scientific presentations</h2>
 {% for post in site.talks reversed %}
   {% if post.effort == "contribution" %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
 
-<h2><i>Invited presentations</i></h2>
+<h2>Invited presentations</h2>
 {% for post in site.talks reversed %}
   {% if post.effort == "other" %}
     {% include archive-single-talk.html %}

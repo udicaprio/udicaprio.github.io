@@ -1,8 +1,8 @@
 ---
 title: "SI-M/O: Swarm Intelligence-based Modeling and Optimization of complex synthesis reaction processes"
-collection: Journal Papers
+collection: publications
 permalink: /publication/s-i-mo
-pubtype: "journal"
+category: manuscripts
 excerpt: 'In this paper we investigate the application of hybrid modelling to predict poorly specified reaction system. After the modelling effot, we propose a method to optimize the reaction system.'
 date: 2023-09-21
 venue: 'Computers & Chemical Engineering'

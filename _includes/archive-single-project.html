@@ -1,11 +1,5 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
@@ -13,18 +7,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
@@ -32,6 +15,10 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    <i>{{post.type}}</i>, {{post.year}}
- </article>
+    {% if post.type or post.year %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {% if post.type %}<i>{{ post.type }}</i>{% endif %}{% if post.year %}{% if post.type %}, {% endif %}{{ post.year }}{% endif %}
+      </p>
+    {% endif %}
+  </article>
 </div>

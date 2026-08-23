@@ -2,7 +2,7 @@
 title: "Reinforcement learning-based approach for optimizing solvent-switch processes"
 collection: publications
 permalink: /publication/solvent-switch-rl
-pubtype: "journal"
+category: manuscripts
 excerpt: 'In this paper we apply reinforcement learning techniques to improve the efficiency of solvent switch process.'
 date: 2023-06-01
 venue: 'Computers & Chemical Engineering'

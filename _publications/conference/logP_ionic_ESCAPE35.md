@@ -1,8 +1,8 @@
 ---
 title: "Correlating the partitioning of organic molecules between water and [MeoeMPyrr]+ [FAP]- through machine learning"
-collection: Journal Papers
+collection: publications
 permalink: /publication/logP_ionic_ESCAPE35
-pubtype: "proceeding"
+category: conferences
 excerpt: 'This study proposes a hybrid model correlating the partitioning of organic molecules in octanol/water with the partitioning in ionic-liquid/water systems.'
 date: 2024-08-26
 venue: 'Computer Aided Chemical Engineering'

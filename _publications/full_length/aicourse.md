@@ -1,8 +1,8 @@
 ---
 title: "An artificial intelligence course for chemical engineers"
-collection: Journal Papers
+collection: publications
 permalink: /publication/aicourse
-pubtype: "journal"
+category: manuscripts
 excerpt: "In this paper we propose the structure teaching machine learning application for Chemical Engineering Master's students"
 date: 2023-10-03
 venue: 'Education for Chemical Engineers'

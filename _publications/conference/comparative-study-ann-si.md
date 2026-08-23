@@ -1,8 +1,8 @@
 ---
 title: "A comparative study of swarm intelligence and artificial neural networks applications in modeling complex reaction processes"
-collection: Journal Papers
+collection: publications
 permalink: /publication/comparative-study-ann-si
-pubtype: "proceeding"
+category: conferences
 excerpt: "In this paper we compare the performance of artificial neural networks and polynomial models optimized with warm intelligence in predicting process behaviours under different data scenario"
 date: 2022-09-1
 venue: 'Computer Aided Chemical Engineering'

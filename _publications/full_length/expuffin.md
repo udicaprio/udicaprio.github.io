@@ -2,7 +2,7 @@
 title: "ExPUFFIN: Thermodynamic consistent viscosity prediction in an Extended Path-Unifying Feed-Forward Interfaced Network"
 collection: publications
 permalink: /publication/expuffin
-pubtype: "journal"
+category: manuscripts
 excerpt: 'In this paper we create and validate an hybrid model involving GNN for predicting viscosity using physical equations.'
 date: 2026-03-18
 venue: 'Chemical Engineering Journal Advances'

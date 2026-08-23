@@ -2,7 +2,7 @@
 title: "Hybrid modelling of a batch separation process"
 collection: publications
 permalink: /publication/hybrid-model-of-a-batch-separation-process
-pubtype: "journal"
+category: manuscripts
 excerpt: 'In this paper we investigate the application of hybrid modelling technique to predict the solvent switch process behaviour.'
 date: 2023-06-07
 venue: 'Computers & Chemical Engineering'

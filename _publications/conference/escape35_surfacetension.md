@@ -1,8 +1,8 @@
 ---
 title: "Predicting Surface Tension of Organic Molecules using COSMO-RS Theory and Machine Learning"
-collection: Journal Papers
+collection: publications
 permalink: /publication/escape35_surfacetension
-pubtype: "proceeding"
+category: conferences
 excerpt: 'In this paper we apply machine learning technique to improve the accuracy of COSMO-RS model in predicting surface tension of liquids employing molecular descriptors'
 date: 2025-06-27
 venue: 'Systems & Control Transactions'
