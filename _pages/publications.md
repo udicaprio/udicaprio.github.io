@@ -5,23 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-
 {% include base_path %}
 
-<h2><i>Journal papers</i></h2>
+{% for category in site.publication_category %}
+{% assign title_shown = false %}
 {% for post in site.publications reversed %}
-  {% if post.pubtype == "journal" %}
-    {% include archive-single-publications.html %}
-  {% endif %}
+{% if post.category != category[0] %}
+{% continue %}
+{% endif %}
+{% unless title_shown %}
+<h2>{{ category[1].title }}</h2><hr />
+{% assign title_shown = true %}
+{% endunless %}
+{% include archive-single.html %}
 {% endfor %}
-
-<h2><i>Conference proceedings</i></h2>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == "proceeding" %}
-    {% include archive-single-publications.html %}
-  {% endif %}
 {% endfor %}

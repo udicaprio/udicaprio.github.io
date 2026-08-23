@@ -1,8 +1,8 @@
 ---
 title: "Predicting overall mass transfer coefficients of CO2 capture into monoethanolamine in spray columns with hybrid machine learning"
-collection: Journal Papers
+collection: publications
 permalink: /publication/co2-ai
-pubtype: "journal"
+category: manuscripts
 excerpt: "In this paper we apply hybrid modeling to predict mass-transfer coefficients in spray columns for CO2 capture"
 date: 2023-03-11
 venue: 'Journal of CO2 Utilization'

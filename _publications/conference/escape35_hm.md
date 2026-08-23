@@ -1,8 +1,8 @@
 ---
 title: "Hybrid Models Identification and Training through Evolutionary Algorithms"
-collection: Journal Papers
+collection: publications
 permalink: /publication/escape35_hm
-pubtype: "proceeding"
+category: conferences
 excerpt: 'In this paper we apply evolutionary algorithm for the automatic generation of hybrid models for chemical processes starting from mechanistic model description'
 date: 2025-06-27
 venue: 'Systems & Control Transactions'

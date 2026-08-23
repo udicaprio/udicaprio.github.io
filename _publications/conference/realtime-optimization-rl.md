@@ -1,8 +1,8 @@
 ---
 title: "Real-time optimization of a chemical plant with continuous flow reactors via reinforcement learning"
-collection: Journal Papers
+collection: publications
 permalink: /publication/realtime-optimization-rl
-pubtype: "proceeding"
+category: conferences
 excerpt: 'In this paper we investigate the application of reinforcement learning techniques to improve the efficiency of continous reaction processes'
 date: 2023-07-18
 venue: 'Computer Aided Chemical Engineering'

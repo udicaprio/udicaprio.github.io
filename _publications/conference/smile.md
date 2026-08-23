@@ -2,7 +2,7 @@
 title: "SMILE: Smell Maximisation In Low-cost Eau de parfum"
 collection: publications
 permalink: /publication/smile
-pubtype: "proceeding"
+category: conferences
 excerpt: 'A computer-aided optimisation framework for balancing perceived fragrance intensity and formulation cost.'
 date: 2026-06-19
 venue: 'Systems and Control Transactions'

@@ -1,8 +1,8 @@
 ---
 title: "A new look to the old solvent: Mass transfer performance and mechanism of CO2 absorption into pure monoethanolamine in a spray column"
-collection: Journal Papers
+collection: publications
 permalink: /publication/a-new-look-to-the-old-solvent
-pubtype: "journal"
+category: manuscripts
 excerpt: 'In this paper we investigate the effect of MEA concentration on the overall mass transfer coefficient in spray column on CO<sub>2</sub> capture'
 date: 2023-01-14
 venue: 'Chemical Engineering and Processing - Process Intensification'

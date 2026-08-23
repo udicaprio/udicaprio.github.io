@@ -72,13 +72,16 @@ redirect_from:
 * Italian: <i>Mother tongue</i>
 * English: <i>Proficient</i>
 
-<!-- Publications
+{% comment %}
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv-publications.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
+{% endcomment %}
 
-<!-- Skills
+{% comment %}
+Skills
 ======
 * Skill 1
 * Skill 2
@@ -86,19 +89,26 @@ redirect_from:
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-   -->
-<!-- Talks
+{% endcomment %}
+
+{% comment %}
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
+  {% endfor %}</ul>
+{% endcomment %}
+
+{% comment %}
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv-teaching.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
+  {% endfor %}</ul>
+{% endcomment %}
+
+{% comment %}
+Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams
+{% endcomment %}

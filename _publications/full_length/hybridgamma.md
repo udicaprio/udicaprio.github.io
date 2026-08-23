@@ -2,7 +2,7 @@
 title: "HybridGamma: A thermodynamically consistent framework for hybrid modelling of activity coefficients"
 collection: publications
 permalink: /publication/hybridgamma
-pubtype: "journal"
+category: manuscripts
 excerpt: 'In this paper we investigate the application of hybrid modelling to predict activity coefficients'
 date: 2023-09-27
 venue: 'Chemical Engineering Journal'

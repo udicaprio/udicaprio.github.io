@@ -2,7 +2,7 @@
 title: "Hybrid modelling approaches in process intensification: A thorough review"
 collection: publications
 permalink: /publication/review-hm-pi
-pubtype: "journal"
+category: manuscripts
 excerpt: 'In this paper we review the capabilities of hybrid modelling in process intensification domain'
 date: 2025-08-24
 venue: 'Chemical Engineering and Processing - Process Intensification'

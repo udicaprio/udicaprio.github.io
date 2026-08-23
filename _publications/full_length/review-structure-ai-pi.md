@@ -2,7 +2,7 @@
 title: "AI-aided process intensification of structures"
 collection: publications
 permalink: /publication/review-structure-ai-pi
-pubtype: "journal"
+category: manuscripts
 excerpt: 'In this paper we review the capabilities of AI in generating novel reactor designs employing CFD simulations'
 date: 2025-07-14
 venue: 'Chemical Engineering and Processing - Process Intensification'

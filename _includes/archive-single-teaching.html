@@ -1,11 +1,5 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
@@ -13,28 +7,16 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <h2 itemprop="headline">{{ title }}</h2>
 
-    <h2>{{ title }}</h2>
-    {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
-    <br>Role: {{post.role}}
-      
-    {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
-    {% endif %}
+    <p class="archive__item-excerpt" itemprop="description">
+      {% if post.type %}{{ post.type }}{% endif %}{% if post.venue %}{% if post.type %}, {% endif %}<i>{{ post.venue }}</i>{% endif %}{% if post.date %}{% if post.type or post.venue %}, {% endif %}{{ post.date | date: "%Y" }}{% endif %}
+      {% if post.role %}<br>Role: {{ post.role }}{% endif %}
+    </p>
 
+    {% if post.excerpt %}
+      <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
+    {% endif %}
   </article>
 </div>
